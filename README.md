@@ -14,6 +14,7 @@ This jupyter notebook was created by me and uses various tools to test that the 
 
 I ran 6 participants data through multiple pipelines, testing various algorithms and hyperparameters. In the end, all 6 participants showed significant signs of triangulation, with logistic regression being the strongest algorithm among the ones tested, including neural networks.
 
-Here's an example of the participant with strongest's generalization across all three experiments.
+Here's an example of the participant with strongest's generalization across all three experiments. Significance was tested against boostrapped random chance, controlling for multiple-comparisons.
 
-![image](https://github.com/UgoBruzadin/Triangulation_Project/assets/25592470/15477e43-c802-4157-93e2-cb9e83eb48d3)
+![image](https://github.com/UgoBruzadin/Triangulation_Project/assets/25592470/73be9f79-d780-48c4-971b-476150e885ab)
+
