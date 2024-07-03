@@ -17,5 +17,3 @@ I ran 6 participants data through multiple pipelines, testing various algorithms
 Here's an example of the participant with strongest's generalization across all three experiments.
 
 ![image](https://github.com/UgoBruzadin/Triangulation_Project/assets/25592470/15477e43-c802-4157-93e2-cb9e83eb48d3)
-
-![image](https://github.com/UgoBruzadin/Triangulation_Project/assets/25592470/39104732-53e0-4eb7-a5e1-4c7e408f9193)
