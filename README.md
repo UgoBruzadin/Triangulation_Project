@@ -1,4 +1,4 @@
-# Triangulation_Scripts
+# Triangulation Project
  
 Triangulating the Neural Correlates of Consciousness (NCCs)
 
