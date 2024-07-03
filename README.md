@@ -19,4 +19,4 @@ Here's an example of the participant with strongest's generalization across all 
 ![image](https://github.com/UgoBruzadin/Triangulation_Project/assets/25592470/73be9f79-d780-48c4-971b-476150e885ab)
 
 
-The powerpoint file contains the whole presentation about the project as it stands.
+[The powerpoint file contains the whole presentation about the project as it stands.](https://github.com/UgoBruzadin/Triangulation_Project/blob/main/Triangulating%20Cons%20-%20Lab%20Presentation.pdf)
