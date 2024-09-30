@@ -8,7 +8,7 @@ This project's goals are to:
 2. Apply temporal generalization to each experiment, showing time-relationships and staiblity of signal over time in decoding
 3. Test different algorithms in pilot data and show the generalizabitlity of one experiment to the other two by applying the model from one experiment's decoding session to the other one.
 
-In sum, this projects' goal was to show that it is feasible to use the model from one experiment to decode the other two, and therefore show that they share a common neural signal. We call this a triangulation of neural correlates. These three experiments are commonly used in consciosuness research, and the generalization between them will help us identify common Neural Correlates of Consiousness, that is, where in the brain are the sources of awareness. In this case, visual awareness.
+In sum, this projects' goal was to show that it is feasible to use the model from one experiment to decode the other two, and therefore show that they share a common neural signal. We call this a triangulation of neural correlates. These three experiments are commonly used in consciousness research, and the generalization between them will help us identify common Neural Correlates of Consiousness, that is, where in the brain are the sources of awareness. In this case, visual awareness.
 
 This jupyter notebook was created by me and uses various tools to test that the Triangulation project is possible.
 
